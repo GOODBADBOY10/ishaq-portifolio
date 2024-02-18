@@ -98,9 +98,21 @@ nav {
     text-align: center;
     line-height: 23px;
 }
+.elevator p {
+font-size: 20px;
+margin-top: 10px;
+text-align: center;
+}
+.elevator p a {
+    color: gold;
+    cursor: pointer;
+}
+.elevator p a:hover {
+    color: #fff;
+}
 .aboutme {
-    width: 100%;
-    margin-left: 400px;
+    width: 50%;
+    margin-left: 250px;
     margin-top: 60px;
 }
 .aboutme h3 {
