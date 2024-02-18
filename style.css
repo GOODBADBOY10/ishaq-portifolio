@@ -88,7 +88,7 @@ nav {
     color: #fff;
 }
 .elevator {
-    width: 400px;
+    width: 40%;
     margin-top: 150px;
     margin-left: 400px;
 }
@@ -99,7 +99,7 @@ nav {
     line-height: 23px;
 }
 .aboutme {
-    width: 420px;
+    width: 100%;
     margin-left: 400px;
     margin-top: 60px;
 }
@@ -458,8 +458,8 @@ footer {
         text-align: left;
     }
     .aboutme {
-        margin-left: 5px;
-        overflow: hidden;
+        margin-left: 10px;
+        width: 100%;
     }
     .aboutme h3 {
         margin-left: 20px;
@@ -475,13 +475,14 @@ footer {
     }
     .elevator {
         margin-left: 3px;
+        width: 100%
     }
     figure {
-        margin-left: 30px;
+        margin-left: 50px;
 
     }
     .pot h3 {
-        margin-left: -150px;
+        margin-left: -100px;
     }
 }
 /* @media  screen and (min-width: 960px) {
